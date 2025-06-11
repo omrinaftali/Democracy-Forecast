@@ -48,4 +48,4 @@ python Final_Project.py
 ---
 
 > Final project in Data Science Practicum  
-> By: Eliora Stone & Omri Naftali
+> By: Omri Naftali
